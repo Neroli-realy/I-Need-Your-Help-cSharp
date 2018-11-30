@@ -1,0 +1,13 @@
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\bin\Debug\I Need Your Help V2.0.exe.config
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\bin\Debug\I Need Your Help V2.0.exe
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\bin\Debug\I Need Your Help V2.0.pdb
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I Need Your Help V2.0.csprojResolveAssemblyReference.cache
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I_Need_Your_Help_V2._0.Form1.resources
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I_Need_Your_Help_V2._0.Properties.Resources.resources
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I Need Your Help V2.0.csproj.GenerateResource.Cache
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I Need Your Help V2.0.exe
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I Need Your Help V2.0.pdb
+D:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I_Need_Your_Help_V2._0.Form3.resources
+F:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\bin\Debug\I Need Your Help V2.0.exe.config
+F:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I Need Your Help V2.0.exe
+F:\Programming\My Projects\I Need Your Help V2.0\I Need Your Help V2.0\obj\Debug\I Need Your Help V2.0.pdb
